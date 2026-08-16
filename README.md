@@ -32,9 +32,9 @@ Examples:
 
 `0025 - Pikachu.pk4`
 
-`0487 - Giratina - Origin Forme.pk4`
+`0487 - Giratina - Origin Form.pk4`
 
-`0025 - Pikachu - PKTOPIA.pk4`
+`0025 - Pikachu - Female.pk4`
 
 ## Notes
 
