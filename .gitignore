@@ -40,3 +40,7 @@ desktop.ini
 *.tmp
 *.temp
 ~$*
+
+#Links
+
+*.lnk
