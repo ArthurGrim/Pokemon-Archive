@@ -44,3 +44,7 @@ desktop.ini
 #Links
 
 *.lnk
+
+#Executables
+
+*.exe
